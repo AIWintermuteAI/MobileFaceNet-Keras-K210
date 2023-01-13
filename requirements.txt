@@ -1,0 +1,9 @@
+tensorflow>=2.0.0
+imgaug~=0.4
+opencv-python-headless<=5
+Pillow
+requests
+tqdm
+scikit-learn
+matplotlib
+mtcnn-opencv
